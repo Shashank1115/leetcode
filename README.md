@@ -38,4 +38,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Shashank1115/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Shashank1115/leetcode/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Shashank1115/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Shashank1115/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
