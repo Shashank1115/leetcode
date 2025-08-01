@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Shashank1115/leetcode/tree/master/0118-pascals-triangle) |
 | [0164-maximum-gap](https://github.com/Shashank1115/leetcode/tree/master/0164-maximum-gap) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shashank1115/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Shashank1115/leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shashank1115/leetcode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Shashank1115/leetcode/tree/master/0118-pascals-triangle) |
 | [1013-fibonacci-number](https://github.com/Shashank1115/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
