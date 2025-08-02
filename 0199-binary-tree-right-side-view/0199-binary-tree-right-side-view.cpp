@@ -19,7 +19,8 @@ vector<int> result;
         while (!q.empty()) {
             int sizee = q.size();
             for (int i = 0; i < sizee; i++) {
-                TreeNode* node = q.front(); q.pop();
+                TreeNode* node = q.front();
+                 q.pop();
                 if (i == sizee - 1) {
                     result.push_back(node->val);
                 }
