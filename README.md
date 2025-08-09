@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Shashank1115/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Shashank1115/leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Shashank1115/leetcode/tree/master/1013-fibonacci-number) |
+| [2556-convert-the-temperature](https://github.com/Shashank1115/leetcode/tree/master/2556-convert-the-temperature) |
 ## Dynamic Programming
 |  |
 | ------- |
