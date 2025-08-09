@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shashank1115/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Shashank1115/leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Shashank1115/leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Shashank1115/leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Shashank1115/leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Shashank1115/leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Shashank1115/leetcode/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Shashank1115/leetcode/tree/master/0231-power-of-two) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Shashank1115/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Brainteaser
 |  |
