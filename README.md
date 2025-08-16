@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Shashank1115/leetcode/tree/master/0118-pascals-triangle) |
 | [0164-maximum-gap](https://github.com/Shashank1115/leetcode/tree/master/0164-maximum-gap) |
+| [0268-missing-number](https://github.com/Shashank1115/leetcode/tree/master/0268-missing-number) |
 | [0739-daily-temperatures](https://github.com/Shashank1115/leetcode/tree/master/0739-daily-temperatures) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shashank1115/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Shashank1115/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Shashank1115/leetcode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Shashank1115/leetcode/tree/master/0268-missing-number) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shashank1115/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Shashank1115/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Greedy
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Shashank1115/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Shashank1115/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Shashank1115/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Shashank1115/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Shashank1115/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Shashank1115/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Shashank1115/leetcode/tree/master/1013-fibonacci-number) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Shashank1115/leetcode/tree/master/0164-maximum-gap) |
+| [0268-missing-number](https://github.com/Shashank1115/leetcode/tree/master/0268-missing-number) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shashank1115/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Shashank1115/leetcode/tree/master/1530-check-if-a-string-can-break-another-string) |
 ## Bucket Sort
@@ -145,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Shashank1115/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Shashank1115/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Shashank1115/leetcode/tree/master/0342-power-of-four) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Shashank1115/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Brainteaser
@@ -163,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Shashank1115/leetcode/tree/master/0268-missing-number) |
 | [3790-fruits-into-baskets-ii](https://github.com/Shashank1115/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Segment Tree
 |  |
