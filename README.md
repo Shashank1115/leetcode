@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Shashank1115/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Shashank1115/leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Shashank1115/leetcode/tree/master/0274-h-index) |
+| [0503-next-greater-element-ii](https://github.com/Shashank1115/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Shashank1115/leetcode/tree/master/0739-daily-temperatures) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shashank1115/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Shashank1115/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Shashank1115/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shashank1115/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shashank1115/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0503-next-greater-element-ii](https://github.com/Shashank1115/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Shashank1115/leetcode/tree/master/0739-daily-temperatures) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Shashank1115/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Bit Manipulation
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Shashank1115/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Shashank1115/leetcode/tree/master/0739-daily-temperatures) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Shashank1115/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Counting Sort
