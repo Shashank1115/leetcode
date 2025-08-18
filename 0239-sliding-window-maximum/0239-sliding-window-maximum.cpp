@@ -26,20 +26,13 @@ public:
     //     }
     //     return ans;
      vector<int> ans;
-        // max-heap storing {value, index}
         priority_queue<pair<int,int>> pq;
-
-        // build initial window
         for (int i = 0; i < k; i++) {
             pq.push({nums[i], i});
         }
         ans.push_back(pq.top().first);
-
-        // slide the window
         for (int i = k; i < nums.size(); i++) {
             pq.push({nums[i], i});
-
-            // remove elements outside the window
             while (pq.top().second <= i - k) {
                 pq.pop();
             }
