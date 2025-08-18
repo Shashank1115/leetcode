@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Shashank1115/leetcode/tree/master/0118-pascals-triangle) |
 | [0164-maximum-gap](https://github.com/Shashank1115/leetcode/tree/master/0164-maximum-gap) |
+| [0239-sliding-window-maximum](https://github.com/Shashank1115/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Shashank1115/leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Shashank1115/leetcode/tree/master/0274-h-index) |
 | [0739-daily-temperatures](https://github.com/Shashank1115/leetcode/tree/master/0739-daily-temperatures) |
@@ -193,4 +194,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Shashank1115/leetcode/tree/master/0274-h-index) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Shashank1115/leetcode/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Shashank1115/leetcode/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Shashank1115/leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Shashank1115/leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
