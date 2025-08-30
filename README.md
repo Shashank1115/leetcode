@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shashank1115/leetcode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/Shashank1115/leetcode/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/Shashank1115/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/Shashank1115/leetcode/tree/master/0118-pascals-triangle) |
 | [0164-maximum-gap](https://github.com/Shashank1115/leetcode/tree/master/0164-maximum-gap) |
 | [0239-sliding-window-maximum](https://github.com/Shashank1115/leetcode/tree/master/0239-sliding-window-maximum) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Shashank1115/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shashank1115/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shashank1115/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Shashank1115/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Shashank1115/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Shashank1115/leetcode/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shashank1115/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [3790-fruits-into-baskets-ii](https://github.com/Shashank1115/leetcode/tree/master/3790-fruits-into-baskets-ii) |
