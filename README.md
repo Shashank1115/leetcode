@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Shashank1115/leetcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Shashank1115/leetcode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/Shashank1115/leetcode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Shashank1115/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Shashank1115/leetcode/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/Shashank1115/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shashank1115/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shashank1115/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Shashank1115/leetcode/tree/master/0012-integer-to-roman) |
+| [0037-sudoku-solver](https://github.com/Shashank1115/leetcode/tree/master/0037-sudoku-solver) |
 | [0202-happy-number](https://github.com/Shashank1115/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Shashank1115/leetcode/tree/master/0268-missing-number) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shashank1115/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -255,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Shashank1115/leetcode/tree/master/0724-find-pivot-index) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Shashank1115/leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
