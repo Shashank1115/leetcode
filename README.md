@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Shashank1115/leetcode/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Shashank1115/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Shashank1115/leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Shashank1115/leetcode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Shashank1115/leetcode/tree/master/0056-merge-intervals) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Shashank1115/leetcode/tree/master/0012-integer-to-roman) |
 | [0037-sudoku-solver](https://github.com/Shashank1115/leetcode/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Shashank1115/leetcode/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/Shashank1115/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Shashank1115/leetcode/tree/master/0268-missing-number) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shashank1115/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
