@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Shashank1115/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Shashank1115/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Shashank1115/leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3998-minimum-operations-to-equalize-array](https://github.com/Shashank1115/leetcode/tree/master/3998-minimum-operations-to-equalize-array) |
 ## Matrix
 |  |
 | ------- |
@@ -207,11 +208,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shashank1115/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Shashank1115/leetcode/tree/master/0342-power-of-four) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Shashank1115/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3998-minimum-operations-to-equalize-array](https://github.com/Shashank1115/leetcode/tree/master/3998-minimum-operations-to-equalize-array) |
 ## Brainteaser
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Shashank1115/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3462-vowels-game-in-a-string](https://github.com/Shashank1115/leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3998-minimum-operations-to-equalize-array](https://github.com/Shashank1115/leetcode/tree/master/3998-minimum-operations-to-equalize-array) |
 ## Linked List
 |  |
 | ------- |
