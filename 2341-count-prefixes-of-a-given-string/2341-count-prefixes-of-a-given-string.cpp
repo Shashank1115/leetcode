@@ -7,9 +7,9 @@ public:
            string str = words[j];
            int i  = 0;
            bool good = true;
-        while(i < (int)str.size()){
+        while(i < str.size()){
             
-            if(i>= (int)s.size() || str[i] != s[i]){
+            if(i>= s.size() || str[i] != s[i]){
                 good = false;
                 break;
             }
