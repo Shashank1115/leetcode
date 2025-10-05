@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shashank1115/leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Shashank1115/leetcode/tree/master/0274-h-index) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shashank1115/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0496-next-greater-element-i](https://github.com/Shashank1115/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shashank1115/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0724-find-pivot-index](https://github.com/Shashank1115/leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Shashank1115/leetcode/tree/master/0735-asteroid-collision) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Shashank1115/leetcode/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/Shashank1115/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Shashank1115/leetcode/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/Shashank1115/leetcode/tree/master/0496-next-greater-element-i) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shashank1115/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Shashank1115/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Shashank1115/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Shashank1115/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shashank1115/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Shashank1115/leetcode/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/Shashank1115/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shashank1115/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Shashank1115/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Shashank1115/leetcode/tree/master/0739-daily-temperatures) |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shashank1115/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shashank1115/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/Shashank1115/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shashank1115/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Shashank1115/leetcode/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/Shashank1115/leetcode/tree/master/0943-sum-of-subarray-minimums) |
