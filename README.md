@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Shashank1115/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Shashank1115/leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Shashank1115/leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Shashank1115/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Shashank1115/leetcode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Shashank1115/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shashank1115/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shashank1115/leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Shashank1115/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Shashank1115/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Shashank1115/leetcode/tree/master/0118-pascals-triangle) |
 | [0943-sum-of-subarray-minimums](https://github.com/Shashank1115/leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -313,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Shashank1115/leetcode/tree/master/0155-min-stack) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Shashank1115/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
