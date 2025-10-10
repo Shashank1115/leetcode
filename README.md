@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Shashank1115/leetcode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Shashank1115/leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Shashank1115/leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Shashank1115/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Shashank1115/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Shashank1115/leetcode/tree/master/0202-happy-number) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shashank1115/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Shashank1115/leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Shashank1115/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Shashank1115/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Shashank1115/leetcode/tree/master/0118-pascals-triangle) |
 | [0943-sum-of-subarray-minimums](https://github.com/Shashank1115/leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -328,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shashank1115/leetcode/tree/master/0053-maximum-subarray) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Shashank1115/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
