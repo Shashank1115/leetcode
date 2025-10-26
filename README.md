@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Shashank1115/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Shashank1115/leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Shashank1115/leetcode/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/Shashank1115/leetcode/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shashank1115/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shashank1115/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Shashank1115/leetcode/tree/master/0496-next-greater-element-i) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Shashank1115/leetcode/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Shashank1115/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0202-happy-number](https://github.com/Shashank1115/leetcode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Shashank1115/leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shashank1115/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Shashank1115/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Sorting
