@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shashank1115/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Shashank1115/leetcode/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Shashank1115/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/Shashank1115/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Shashank1115/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Shashank1115/leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shashank1115/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shashank1115/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Shashank1115/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Shashank1115/leetcode/tree/master/0067-add-binary) |
+| [0151-reverse-words-in-a-string](https://github.com/Shashank1115/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Shashank1115/leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shashank1115/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/Shashank1115/leetcode/tree/master/0415-add-strings) |
