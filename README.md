@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-convert-the-temperature](https://github.com/Shashank1115/leetcode/tree/master/2556-convert-the-temperature) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shashank1115/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3462-vowels-game-in-a-string](https://github.com/Shashank1115/leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Shashank1115/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shashank1115/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -448,5 +449,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Shashank1115/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shashank1115/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
