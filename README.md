@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Shashank1115/leetcode/tree/master/1036-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Shashank1115/leetcode/tree/master/1046-last-stone-weight) |
 | [1331-rank-transform-of-an-array](https://github.com/Shashank1115/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Shashank1115/leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shashank1115/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shashank1115/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Shashank1115/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
