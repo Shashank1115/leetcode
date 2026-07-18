@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Shashank1115/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1036-rotting-oranges](https://github.com/Shashank1115/leetcode/tree/master/1036-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Shashank1115/leetcode/tree/master/1046-last-stone-weight) |
+| [1331-rank-transform-of-an-array](https://github.com/Shashank1115/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shashank1115/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shashank1115/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Shashank1115/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Shashank1115/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Shashank1115/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shashank1115/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1331-rank-transform-of-an-array](https://github.com/Shashank1115/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Shashank1115/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Shashank1115/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Shashank1115/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Shashank1115/leetcode/tree/master/0274-h-index) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shashank1115/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shashank1115/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1331-rank-transform-of-an-array](https://github.com/Shashank1115/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Shashank1115/leetcode/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Shashank1115/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Shashank1115/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
