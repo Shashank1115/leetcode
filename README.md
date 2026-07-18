@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shashank1115/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Shashank1115/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Shashank1115/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Shashank1115/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/Shashank1115/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Shashank1115/leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Shashank1115/leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Shashank1115/leetcode/tree/master/1013-fibonacci-number) |
 | [1448-maximum-69-number](https://github.com/Shashank1115/leetcode/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/Shashank1115/leetcode/tree/master/1642-water-bottles) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Shashank1115/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Shashank1115/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2556-convert-the-temperature](https://github.com/Shashank1115/leetcode/tree/master/2556-convert-the-temperature) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shashank1115/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Shashank1115/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shashank1115/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shashank1115/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
