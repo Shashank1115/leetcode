@@ -7,7 +7,8 @@ public:
         int rank = 1;
         for(int itr  : temp){
             if(test.find(itr) == test.end()){
-                test[itr] = rank++;
+                test[itr] = rank;
+                rank++;
              }
 
         }
