@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Shashank1115/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shashank1115/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Shashank1115/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2603-collect-coins-in-a-tree](https://github.com/Shashank1115/leetcode/tree/master/2603-collect-coins-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-count-prefixes-of-a-given-string](https://github.com/Shashank1115/leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Shashank1115/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Shashank1115/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2603-collect-coins-in-a-tree](https://github.com/Shashank1115/leetcode/tree/master/2603-collect-coins-in-a-tree) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shashank1115/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Shashank1115/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Shashank1115/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -458,4 +460,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shashank1115/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shashank1115/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shashank1115/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Graph Theory
+|  |
+| ------- |
+| [2603-collect-coins-in-a-tree](https://github.com/Shashank1115/leetcode/tree/master/2603-collect-coins-in-a-tree) |
+## Topological Sort
+|  |
+| ------- |
+| [2603-collect-coins-in-a-tree](https://github.com/Shashank1115/leetcode/tree/master/2603-collect-coins-in-a-tree) |
 <!---LeetCode Topics End-->
