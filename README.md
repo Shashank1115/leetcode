@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Shashank1115/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Shashank1115/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shashank1115/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Shashank1115/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shashank1115/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Shashank1115/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Shashank1115/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-convert-the-temperature](https://github.com/Shashank1115/leetcode/tree/master/2556-convert-the-temperature) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shashank1115/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3462-vowels-game-in-a-string](https://github.com/Shashank1115/leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Shashank1115/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shashank1115/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shashank1115/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shashank1115/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shashank1115/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Shashank1115/leetcode/tree/master/0342-power-of-four) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Shashank1115/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Shashank1115/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shashank1115/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3998-minimum-operations-to-equalize-array](https://github.com/Shashank1115/leetcode/tree/master/3998-minimum-operations-to-equalize-array) |
 ## Brainteaser
