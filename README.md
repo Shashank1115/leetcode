@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Shashank1115/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1036-rotting-oranges](https://github.com/Shashank1115/leetcode/tree/master/1036-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Shashank1115/leetcode/tree/master/1046-last-stone-weight) |
+| [1260-shift-2d-grid](https://github.com/Shashank1115/leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Shashank1115/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Shashank1115/leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shashank1115/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Shashank1115/leetcode/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shashank1115/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1036-rotting-oranges](https://github.com/Shashank1115/leetcode/tree/master/1036-rotting-oranges) |
+| [1260-shift-2d-grid](https://github.com/Shashank1115/leetcode/tree/master/1260-shift-2d-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shashank1115/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Shashank1115/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Shashank1115/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Shashank1115/leetcode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Shashank1115/leetcode/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/Shashank1115/leetcode/tree/master/0735-asteroid-collision) |
+| [1260-shift-2d-grid](https://github.com/Shashank1115/leetcode/tree/master/1260-shift-2d-grid) |
 | [1642-water-bottles](https://github.com/Shashank1115/leetcode/tree/master/1642-water-bottles) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Shashank1115/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Shashank1115/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
