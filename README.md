@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Shashank1115/leetcode/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Shashank1115/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Shashank1115/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shashank1115/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Shashank1115/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Shashank1115/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Math
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/Shashank1115/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2556-convert-the-temperature](https://github.com/Shashank1115/leetcode/tree/master/2556-convert-the-temperature) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shashank1115/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shashank1115/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3462-vowels-game-in-a-string](https://github.com/Shashank1115/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shashank1115/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shashank1115/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Shashank1115/leetcode/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Shashank1115/leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Shashank1115/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shashank1115/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3462-vowels-game-in-a-string](https://github.com/Shashank1115/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Shashank1115/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shashank1115/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
