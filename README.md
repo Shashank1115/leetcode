@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Shashank1115/leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Shashank1115/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Shashank1115/leetcode/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/Shashank1115/leetcode/tree/master/0877-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/Shashank1115/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1036-rotting-oranges](https://github.com/Shashank1115/leetcode/tree/master/1036-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Shashank1115/leetcode/tree/master/1046-last-stone-weight) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Shashank1115/leetcode/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/Shashank1115/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shashank1115/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Shashank1115/leetcode/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/Shashank1115/leetcode/tree/master/1013-fibonacci-number) |
 | [1448-maximum-69-number](https://github.com/Shashank1115/leetcode/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/Shashank1115/leetcode/tree/master/1642-water-bottles) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Shashank1115/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Shashank1115/leetcode/tree/master/0118-pascals-triangle) |
 | [0486-predict-the-winner](https://github.com/Shashank1115/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Shashank1115/leetcode/tree/master/0877-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/Shashank1115/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/Shashank1115/leetcode/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shashank1115/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Shashank1115/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Shashank1115/leetcode/tree/master/0877-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/Shashank1115/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Design
 |  |
