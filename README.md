@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Shashank1115/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Shashank1115/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shashank1115/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/Shashank1115/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shashank1115/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Shashank1115/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2603-collect-coins-in-a-tree](https://github.com/Shashank1115/leetcode/tree/master/2603-collect-coins-in-a-tree) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Shashank1115/leetcode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Shashank1115/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shashank1115/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/Shashank1115/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shashank1115/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Shashank1115/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Shashank1115/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Shashank1115/leetcode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shashank1115/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/Shashank1115/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shashank1115/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Shashank1115/leetcode/tree/master/1036-rotting-oranges) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Shashank1115/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Shashank1115/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Shashank1115/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shashank1115/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/Shashank1115/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shashank1115/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Shashank1115/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Array
