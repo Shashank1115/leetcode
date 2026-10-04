@@ -1,24 +1,34 @@
 class Solution {
 public:
-    void changelandtowater(vector<vector<char>>& grid , int i , int j ){
-        if(i < 0 || i >= grid.size() || j < 0 || j >= grid[0].size() || grid[i][j] == '0') return;
-        grid[i][j] = '0';
-        changelandtowater(grid,i-1,j);
-        changelandtowater(grid,i+1,j);
-        changelandtowater(grid,i,j-1);
-        changelandtowater(grid,i,j+1);
-    }
     int numIslands(vector<vector<char>>& grid) {
-        if(grid.empty()) return 0;
-        int counter = 0 ;
-        for(int i = 0 ; i < grid.size() ;i++){
-            for(int j = 0 ; j < grid[0].size() ;j++){
-                if(grid[i][j] == '1'){
-                    counter++;
-                    changelandtowater(grid,i,j);
+       int m = grid.size();
+       int n = grid[0].size();
+       int ans = 0 ;
+       int dr [] = {-1 , 1 , 0 , 0};
+       int dc[] = {0 , 0 , -1 ,1};
+       for(int i = 0 ; i < m ; i++){
+        for(int j = 0 ; j < n ; j++){
+            if(grid[i][j] == '1'){
+                ans++;
+                queue<pair<int,int>> q;
+                q.push({i,j});
+                grid[i][j] = '0';
+                while(!q.empty()){
+                    auto [r,c] = q.front();
+                    q.pop();
+                    for(int k = 0 ; k < 4 ;k++){
+                        int nr = r + dr[k];
+                        int nc = c + dc[k];
+                    
+                    if(nr >= 0 && nr < m && nc >= 0 && nc < n && grid[nr][nc] == '1'){
+                        grid[nr][nc] = '0';
+                        q.push({nr,nc});
+                                            }
+                    }
                 }
             }
         }
-        return counter;
+       } 
+       return ans;
     }
 };
