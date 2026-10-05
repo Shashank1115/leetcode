@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shashank1115/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shashank1115/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Shashank1115/leetcode/tree/master/0733-flood-fill) |
+| [0752-open-the-lock](https://github.com/Shashank1115/leetcode/tree/master/0752-open-the-lock) |
 | [0993-cousins-in-binary-tree](https://github.com/Shashank1115/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Shashank1115/leetcode/tree/master/0994-rotting-oranges) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shashank1115/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Shashank1115/leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Shashank1115/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Shashank1115/leetcode/tree/master/0739-daily-temperatures) |
+| [0752-open-the-lock](https://github.com/Shashank1115/leetcode/tree/master/0752-open-the-lock) |
 | [0835-image-overlap](https://github.com/Shashank1115/leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Shashank1115/leetcode/tree/master/0877-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/Shashank1115/leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shashank1115/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Shashank1115/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Shashank1115/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0752-open-the-lock](https://github.com/Shashank1115/leetcode/tree/master/0752-open-the-lock) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shashank1115/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Shashank1115/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Shashank1115/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Shashank1115/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/Shashank1115/leetcode/tree/master/0415-add-strings) |
 | [0433-minimum-genetic-mutation](https://github.com/Shashank1115/leetcode/tree/master/0433-minimum-genetic-mutation) |
+| [0752-open-the-lock](https://github.com/Shashank1115/leetcode/tree/master/0752-open-the-lock) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shashank1115/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Shashank1115/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Shashank1115/leetcode/tree/master/1530-check-if-a-string-can-break-another-string) |
@@ -577,4 +581,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/Shashank1115/leetcode/tree/master/0433-minimum-genetic-mutation) |
+| [0752-open-the-lock](https://github.com/Shashank1115/leetcode/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
