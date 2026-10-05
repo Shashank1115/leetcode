@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Shashank1115/leetcode/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/Shashank1115/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Shashank1115/leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0433-minimum-genetic-mutation](https://github.com/Shashank1115/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0513-find-bottom-left-tree-value](https://github.com/Shashank1115/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Shashank1115/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/Shashank1115/leetcode/tree/master/0542-01-matrix) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Shashank1115/leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Shashank1115/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shashank1115/leetcode/tree/master/0268-missing-number) |
+| [0433-minimum-genetic-mutation](https://github.com/Shashank1115/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shashank1115/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Shashank1115/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Shashank1115/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Shashank1115/leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shashank1115/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/Shashank1115/leetcode/tree/master/0415-add-strings) |
+| [0433-minimum-genetic-mutation](https://github.com/Shashank1115/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shashank1115/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Shashank1115/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Shashank1115/leetcode/tree/master/1530-check-if-a-string-can-break-another-string) |
@@ -570,4 +573,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Shashank1115/leetcode/tree/master/0200-number-of-islands) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0433-minimum-genetic-mutation](https://github.com/Shashank1115/leetcode/tree/master/0433-minimum-genetic-mutation) |
 <!---LeetCode Topics End-->
