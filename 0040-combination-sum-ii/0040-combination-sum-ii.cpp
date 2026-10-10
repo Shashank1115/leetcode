@@ -1,7 +1,7 @@
 class Solution {
 public:
     
-    void helper( int idx , int target , vector<int> &arr , vector<vector<int>> &ans ,vector<int> &res){
+    void helper( int idx , int target , vector<int> &candidates , vector<vector<int>> &ans ,vector<int> &res){
     //     if(sum > target) return;
     //     if(idx == candidates.size()){
     //         if(sum == target){
@@ -19,11 +19,11 @@ public:
         ans.push_back(res);
         return;
     }
-    for(int i = idx ; i < arr.size() ; i++){
-        if(i > idx && arr[i] == arr[i-1]) continue;
-        if(arr[i] > target) break;
-        res.push_back(arr[i]);
-        helper(i+1,target-arr[i],arr,ans,res);
+    for(int i = idx ; i < candidates.size() ; i++){
+        if(i > idx && candidates[i] == candidates[i-1]) continue;
+        if(candidates[i] > target) break;
+        res.push_back(candidates[i]);
+        helper(i+1,target-candidates[i],candidates,ans,res);
         res.pop_back();
     }
     }
