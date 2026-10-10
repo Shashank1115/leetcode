@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Shashank1115/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Shashank1115/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shashank1115/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Shashank1115/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2227-sum-of-subarray-ranges](https://github.com/Shashank1115/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Shashank1115/leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Shashank1115/leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/Shashank1115/leetcode/tree/master/0752-open-the-lock) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shashank1115/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Shashank1115/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Shashank1115/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Shashank1115/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Shashank1115/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Shashank1115/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Shashank1115/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shashank1115/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Shashank1115/leetcode/tree/master/1530-check-if-a-string-can-break-another-string) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Shashank1115/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Shashank1115/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Shashank1115/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shashank1115/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Shashank1115/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Shashank1115/leetcode/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Shashank1115/leetcode/tree/master/1013-fibonacci-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Shashank1115/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -599,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/Shashank1115/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shashank1115/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shashank1115/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shashank1115/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
