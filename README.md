@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Shashank1115/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shashank1115/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Shashank1115/leetcode/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/Shashank1115/leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Shashank1115/leetcode/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shashank1115/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/Shashank1115/leetcode/tree/master/0164-maximum-gap) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Shashank1115/leetcode/tree/master/0067-add-binary) |
+| [0090-subsets-ii](https://github.com/Shashank1115/leetcode/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/Shashank1115/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Shashank1115/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shashank1115/leetcode/tree/master/0268-missing-number) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Shashank1115/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Shashank1115/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Shashank1115/leetcode/tree/master/0040-combination-sum-ii) |
+| [0090-subsets-ii](https://github.com/Shashank1115/leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Shashank1115/leetcode/tree/master/0113-path-sum-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Shashank1115/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Database
