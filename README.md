@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Shashank1115/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Shashank1115/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2603-collect-coins-in-a-tree](https://github.com/Shashank1115/leetcode/tree/master/2603-collect-coins-in-a-tree) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Shashank1115/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shashank1115/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Shashank1115/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Shashank1115/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/Shashank1115/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Shashank1115/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shashank1115/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shashank1115/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shashank1115/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
