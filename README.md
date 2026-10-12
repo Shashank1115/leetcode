@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Shashank1115/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0752-open-the-lock](https://github.com/Shashank1115/leetcode/tree/master/0752-open-the-lock) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shashank1115/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1079-letter-tile-possibilities](https://github.com/Shashank1115/leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1331-rank-transform-of-an-array](https://github.com/Shashank1115/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Shashank1115/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Shashank1115/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/Shashank1115/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0752-open-the-lock](https://github.com/Shashank1115/leetcode/tree/master/0752-open-the-lock) |
 | [0784-letter-case-permutation](https://github.com/Shashank1115/leetcode/tree/master/0784-letter-case-permutation) |
+| [1079-letter-tile-possibilities](https://github.com/Shashank1115/leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shashank1115/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Shashank1115/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Shashank1115/leetcode/tree/master/1530-check-if-a-string-can-break-another-string) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Shashank1115/leetcode/tree/master/0274-h-index) |
+| [1079-letter-tile-possibilities](https://github.com/Shashank1115/leetcode/tree/master/1079-letter-tile-possibilities) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Shashank1115/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Shashank1115/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shashank1115/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -558,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Shashank1115/leetcode/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/Shashank1115/leetcode/tree/master/0216-combination-sum-iii) |
 | [0784-letter-case-permutation](https://github.com/Shashank1115/leetcode/tree/master/0784-letter-case-permutation) |
+| [1079-letter-tile-possibilities](https://github.com/Shashank1115/leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Shashank1115/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Database
 |  |
