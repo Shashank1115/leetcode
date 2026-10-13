@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shashank1115/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Shashank1115/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3708-longest-fibonacci-subarray](https://github.com/Shashank1115/leetcode/tree/master/3708-longest-fibonacci-subarray) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Shashank1115/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Shashank1115/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Shashank1115/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shashank1115/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Shashank1115/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shashank1115/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Shashank1115/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Shashank1115/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Shashank1115/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Math
 |  |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Shashank1115/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shashank1115/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shashank1115/leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Shashank1115/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shashank1115/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bucket Sort
 |  |
