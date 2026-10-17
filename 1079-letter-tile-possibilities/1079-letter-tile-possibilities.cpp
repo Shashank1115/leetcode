@@ -1,8 +1,8 @@
 class Solution {
 public:
-    void helper(string& tiles ,vector<string>&ans,  string curr , vector<bool> &used){
+    void helper(string& tiles ,set<string>&ans,  string curr , vector<bool> &used){
        if (!curr.empty()) {
-            ans.push_back(curr);
+            ans.insert(curr);
         }
 
         for(int i = 0 ; i < tiles.size() ; i++){
@@ -16,11 +16,11 @@ public:
        
     }
     int numTilePossibilities(string tiles) {
-        vector<string> ans;
+        set<string> ans;
         vector<bool> used(tiles.size(),false);
         helper(tiles,ans,"",used);
-        sort(ans.begin(),ans.end());
-        ans.erase(unique(ans.begin(),ans.end()),ans.end());
+        //sort(ans.begin(),ans.end());
+//ans.erase(unique(ans.begin(),ans.end()),ans.end());
         return ans.size();
     }
 };
